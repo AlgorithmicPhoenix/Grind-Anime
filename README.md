@@ -3,7 +3,7 @@
 Welcome to the Grind Anime Website, a project that showcases a simple yet functional anime-themed website. This project is designed to help students and beginners in web development understand the basics of creating a website using HTML, CSS, and JavaScript.
 
 # Live Demo
-
+https://algorithmicphoenix.github.io/Grind-Anime/
 
 ## Features
 
