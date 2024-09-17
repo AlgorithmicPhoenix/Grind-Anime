@@ -3,7 +3,7 @@
 Welcome to the Grind Anime Website, a project that showcases a simple yet functional anime-themed website. This project is designed to help students and beginners in web development understand the basics of creating a website using HTML, CSS, and JavaScript.
 
 # Live Demo
-https://deeyanvadwala.github.io/GrindAnime/
+
 
 ## Features
 
@@ -40,12 +40,12 @@ bash
 ```bash
  cd grind-anime
 ```
-3 Open Anime.html in your web browser to start using the application.
+3 Open Index.html in your web browser to start using the application.
 
 ## Developer
-- **Deeyan Vadwala**
+- **Algorithmic Phoenix**
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:
-- **Email:** deeyanv@gmail.com
+- **Email:** algorithmicphoenix@gmail.com
   
